@@ -1,0 +1,13 @@
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/bin/Debug/netcoreapp3.1/PracticeAssessment.deps.json
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/bin/Debug/netcoreapp3.1/PracticeAssessment.runtimeconfig.json
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/bin/Debug/netcoreapp3.1/PracticeAssessment.runtimeconfig.dev.json
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/bin/Debug/netcoreapp3.1/PracticeAssessment.dll
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/bin/Debug/netcoreapp3.1/PracticeAssessment.pdb
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/obj/Debug/netcoreapp3.1/PracticeAssessment.csproj.AssemblyReference.cache
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/obj/Debug/netcoreapp3.1/PracticeAssessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/obj/Debug/netcoreapp3.1/PracticeAssessment.AssemblyInfoInputs.cache
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/obj/Debug/netcoreapp3.1/PracticeAssessment.AssemblyInfo.cs
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/obj/Debug/netcoreapp3.1/PracticeAssessment.csproj.CoreCompileInputs.cache
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/obj/Debug/netcoreapp3.1/PracticeAssessment.dll
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/obj/Debug/netcoreapp3.1/PracticeAssessment.pdb
+/Users/lonni/GrandCircusBootCamps/PracticeAssessment/PracticeAssessment/obj/Debug/netcoreapp3.1/PracticeAssessment.genruntimeconfig.cache
